@@ -1,0 +1,32 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color: bisque;
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(97, 74, 40);
+}
+
+h3{
+    color: rgb(124, 95, 60);
+    font-size: 50px;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+}
+
+p{
+    color: rgb(51, 29, 3);
+    font-size: 20px;
+    font-family: 'Courier New', monospace;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
