@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap");
+
+body{
+    background-color: blanchedalmond;
+    font-family: "Indie Flower", cursive;
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    height: 100px;
+}
+
+h1{
+    color: bisque;
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(97, 74, 40);
+}
+
+h3{
+    color: rgb(124, 95, 60);
+    font-size: 50px;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+}
+
+p{
+    color: rgb(51, 29, 3);
+    font-size: 20px;
+    font-family: 'Courier New', monospace;
+}
+
+menu{
+  position: relative;
+  top: 14px;
+  font-size: 25px;
+  margin-left: 20px;
+  padding: 10px;
+  background-color: rgb(131, 82, 22);
+}
+
+conta{
+  position: relative;
+  top: 14px;
+  font-size: 25px;
+  margin-left: 20px;
+  padding: 10px;
+  background-color: rgb(131, 82, 22);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
